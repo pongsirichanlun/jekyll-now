@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Pongsiri
-permalink: /about/Pongsiri Ubonratchani Ratchapat University
+permalink: About Pongsiri Ubonratchani Ratchapat University
 ---
 
 Some information about you!
