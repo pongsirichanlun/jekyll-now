@@ -3,7 +3,7 @@ layout: page
 title: My resume 
 permalink: /resume/
 ---
-Bs.c. Computer Science, Ubon Ratchatani Ratchapat University.
+- Bs.c. Computer Science, Ubon Ratchatani Ratchapat University.
 
 # Experrience
 - เคยแข่งศิลปหัตกรรมระดับภาค
