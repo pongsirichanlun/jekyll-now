@@ -6,8 +6,9 @@ permalink: /resume/
 Bs.c. Computer Science, Ubon Ratchatani Ratchapat University.
 
 # Experrience
-- Web Developer Client Technical 
+- เคยแข่งศิลปหัตกรรมระดับภาค
+- เคยสอบติดท็อปของระดับชั้น
 
 # Education
 - Bs.C. Computer Science, Ubon Ratchatani Ratchapat University.
-- Hight School
+- Hight School, Somrongwitthayakran School.
